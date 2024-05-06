@@ -18,9 +18,10 @@
 ## 四、代部署价格
 - 注：本人代部署会在服务器上安装 [1panel](https://1panel.cn/) 面板，介意的勿来
 - 1panel 面板占用低，且可以将 MySQL，Redis 等组件独立安装，后续仅需要更新 GPT 组件即可，十分方便
-- share 等过 xyhelper 网关服务代部署价格：400 一次
-- Cockroachai 代部署（含 JA3 过盾）：500 一次，服务器无法部署 JA3 则 400 一次
+- share 等过 xyhelper 网关服务代部署价格：400/次
+- Cockroachai 代部署（含 JA3 过盾）：500/次，服务器无法部署 JA3 则 400/次
 - 使用本人服务器提供的 JA3 过盾服务：50/月
+- 基于 Vercel 部署资源镜像：100/次
 ## 五、附加说明
 - 部署 share 可根据个人喜好免费附加这位大佬制作的选车页面：https://github.com/frontend-winter/sharelist
 - 上述价格均为单次收费，**不含后续维护**，维护需要按次按难度收费，这里列出常见问题
