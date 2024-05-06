@@ -31,5 +31,6 @@
 - OpenAI 账号被封：这个是自己的问题，请尽量用谷歌账号注册，被封概率低
 ## 六、联系方式
 - TG
-
+<img src="./tg.jpg" width = 20%>
 - Wechat
+<img src="./wx.jpg" width = 30%>
