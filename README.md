@@ -32,5 +32,6 @@
 ## 六、联系方式
 - TG
 <img src="./tg.jpg" width = 20%>
+
 - Wechat
 <img src="./wx.jpg" width = 30%>
